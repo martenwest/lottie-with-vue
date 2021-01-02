@@ -1,16 +1,14 @@
 <template>
-  <div>
-    <icon-heart class="w-64 h-64" />
-  </div>
+  <icon-lottie :json="json" />
 </template>
 
 <script>
-import IconHeart from '~/components/icon/Heart.vue'
+import IconLottie from './Lottie'
 import json from '~/assets/heart.json'
 
 export default {
   components: {
-    IconHeart,
+    IconLottie,
   },
 
   data() {
