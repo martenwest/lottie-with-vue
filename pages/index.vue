@@ -6,17 +6,10 @@
 
 <script>
 import IconHeart from '~/components/icon/Heart.vue'
-import json from '~/assets/heart.json'
 
 export default {
   components: {
     IconHeart,
-  },
-
-  data() {
-    return {
-      json,
-    }
   },
 }
 </script>
