@@ -1,4 +1,8 @@
-# vue-lottie
+# lottie-with-vue
+
+## Blog
+
+This repo was build for a [blog](https://www.martenwest.com/blog/lottie-example-vue/) I wrote. Read about it there.
 
 ## Build Setup
 
@@ -8,13 +12,4 @@ $ npm install
 
 # serve with hot reload at localhost:3000
 $ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
